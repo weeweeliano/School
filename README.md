@@ -3,7 +3,8 @@ Completed December 2024
 Finished 
 Pygame needed,
 used VS code.
-Lots of tutorials were used, referenced below and this is the first big project I ever did so it is pretty bad 
+Lots of tutorials were used, referenced below and this is the first big project I ever did so it is pretty bad.
+In the game.py file, line 9: change the path of Goal.png for it to work.
 
 REFERENCES:
 https://thepythoncode.com/article/build-a-maze-game-in-python#adding-game-attributes #this one I used alot
